@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/protein-calculator/static/css/main.72d5177a.css",
+    "main.js": "/protein-calculator/static/js/main.473ff4c1.js",
+    "static/media/drinking.jpg": "/protein-calculator/static/media/drinking.f4459e8a564c19bac00f.jpg",
+    "static/media/mesomorph.png": "/protein-calculator/static/media/mesomorph.051d92271a431fa4c264.png",
+    "static/media/ectomorph.png": "/protein-calculator/static/media/ectomorph.2df9f33dad502f3683ab.png",
+    "static/media/endomorph.png": "/protein-calculator/static/media/endomorph.a7665f44c079a7b19d06.png",
+    "index.html": "/protein-calculator/index.html",
+    "main.72d5177a.css.map": "/protein-calculator/static/css/main.72d5177a.css.map",
+    "main.473ff4c1.js.map": "/protein-calculator/static/js/main.473ff4c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72d5177a.css",
+    "static/js/main.473ff4c1.js"
+  ]
+}
